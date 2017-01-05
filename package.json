@@ -1,0 +1,27 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "display user agent info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "html",
+    "handlebars",
+    "express",
+    "node",
+    "heroku"
+  ],
+  "author": "Jahil Khalfe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "request": "^2.79.0"
+  },
+  "engines": {
+    "node": "4.6.1"
+  }
+}
