@@ -4,6 +4,9 @@
 
 ![binary](http://wallpapercave.com/wp/vPLpQ3e.png)
 
-> To get startes
+> To get started
  - `npm i`
-   - `node server.js`
+ - `node server.js`
+
+
+Visit [http://localhost:8080](http://localhost:8080) on your browser to access the service.
