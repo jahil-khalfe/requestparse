@@ -1,6 +1,6 @@
 # Request Parse Micro Service
 
-## Returns ==IP, Language and User-Agent=
+## Returns **IP, Language and User-Agent**
 --------
 
 ![binary](http://wallpapercave.com/wp/vPLpQ3e.png)
